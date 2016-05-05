@@ -8,6 +8,6 @@ TEMPLATE
 
 NAME dev-template
 VERSION 1.0.0
-MAINTAINER Obiwa KENOBI <obiwan@jedi.master>
+MAINTAINER Obiwan KENOBI <obiwan@jedi.master>
 
 SAY "Hello World"
