@@ -1,0 +1,13 @@
+# Filename: Runefile-default
+
+TEMPLATE
+
+# Rune development template
+# This template is only intended for tests and development purposes
+# If you want to see a practical use case look at the rune-example-template
+
+NAME dev-template
+VERSION 1.0.0
+MAINTAINER Obiwa KENOBI <obiwan@jedi.master>
+
+SAY "Hello World"
