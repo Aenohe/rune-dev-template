@@ -7,7 +7,7 @@ TEMPLATE
 # If you want to see a practical use case look at the rune-example-template
 
 NAME aenohe/dev-template
-VERSION 1.0.0
+VERSION 2.0.0
 MAINTAINER Obiwan KENOBI <obiwan@jedi.master>
 
-SAY "Hello World, version 1.0.0"
+SAY "Hello World, version 2.0.0"
